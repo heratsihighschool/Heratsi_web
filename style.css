@@ -20,7 +20,6 @@ body{
     left: 0;
     right: 0;
     background-color: rgb(142, 195, 176);
-    overflow: hidden;
 }
 .nav-menu{
     display: flex;
