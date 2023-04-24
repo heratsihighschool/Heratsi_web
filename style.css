@@ -379,7 +379,7 @@ align-items: center;
 justify-content: center;
 border-radius: 15px;
 background-color: #BCEAD5;
-width: 800px;
+width: 95%;
 margin: 10px;
 }
 
@@ -388,7 +388,7 @@ width: 60%;
 margin: 10px;
 }
 
-bgf{
+.bgf{
 width: 90%;
 height: auto;
 }
