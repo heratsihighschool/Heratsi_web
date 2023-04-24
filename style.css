@@ -380,8 +380,9 @@ align-items: center;
 justify-content: center;
 border-radius: 15px;
 background-color: #BCEAD5;
-width: 100%;
+width: 120%;
 margin: 10px;
+padding: 10px;
 }
 
 .l{
@@ -390,8 +391,8 @@ margin: 10px;
 }
 
 .bgf{
-width: 900px;
-height: auto;
+margin-right: 40px;
+margin-left: 40px;
 }
 /*------------------------- FOOTER -----------------------*/
 
