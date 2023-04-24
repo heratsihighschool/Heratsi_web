@@ -89,6 +89,7 @@ body{
   margin-bottom: 100px;
   margin-right: 20px;
   margin-left: 40px;
+  width: 100%;
 }
 
 .cont{
@@ -368,7 +369,7 @@ box-shadow: inset -1px 3px 8px 5px #ffc5e1a5, 2px 5px 16px 0px #ffdcedc8, 5px 5p
 display: flex;
 flex-direction: column;
 margin-bottom: 15px;
-width: 95%;
+width: 70%;
 }
 
 .flag{
