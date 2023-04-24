@@ -89,7 +89,8 @@ body{
   margin-bottom: 100px;
   margin-right: 20px;
   margin-left: 40px;
-  width: 100%;
+  width: 200%;
+  position: static;
 }
 
 .cont{
