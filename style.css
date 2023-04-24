@@ -374,6 +374,7 @@ margin-bottom: 15px;
 display: flex;
 flex-direction: row;
 align-items: center;
+justify-content: center;
 border-radius: 15px;
 background-color: #BCEAD5;
 width: 100%;
