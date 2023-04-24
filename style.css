@@ -376,6 +376,8 @@ flex-direction: row;
 border-radius: 15px;
 background-color: #BCEAD5;
 padding: 100px;
+width: max;
+margin: 10px;
 }
 
 .l{
