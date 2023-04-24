@@ -89,7 +89,7 @@ body{
   margin-bottom: 100px;
   margin-right: 20px;
   margin-left: 40px;
-  width: 200%;
+  width: fill;
   position: static;
 }
 
