@@ -373,12 +373,14 @@ margin: 20px;
 .flag{
 display: flex;
 flex-direction: row;
-justify-content: space-between;
 border-radius: 15px;
 background-color: #BCEAD5;
-padding: 10px;
 }
 
+.l{
+padding: 10px;
+margin: 10px;
+}
 /*------------------------- FOOTER -----------------------*/
 
 .footer{
