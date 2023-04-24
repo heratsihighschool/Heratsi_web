@@ -379,7 +379,7 @@ align-items: center;
 justify-content: center;
 border-radius: 15px;
 background-color: #BCEAD5;
-width: 95%;
+width: 100%;
 margin: 10px;
 }
 
@@ -389,7 +389,7 @@ margin: 10px;
 }
 
 .bgf{
-width: 90%;
+width: 900px;
 height: auto;
 }
 /*------------------------- FOOTER -----------------------*/
