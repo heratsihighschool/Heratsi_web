@@ -373,6 +373,7 @@ margin-bottom: 15px;
 .flag{
 display: flex;
 flex-direction: row;
+align-items: center;
 border-radius: 15px;
 background-color: #BCEAD5;
 width: 100%;
