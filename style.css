@@ -200,6 +200,7 @@ body{
 .films{
     margin-top: 150px;
     margin-bottom: 100px;
+    width: 100%;
 }
 
 .button2{
@@ -398,6 +399,9 @@ margin-right: 40px;
 margin-left: 40px;
 }
 
+.w{
+width: 100%;
+}
 
 /*------------------------- FOOTER -----------------------*/
 
