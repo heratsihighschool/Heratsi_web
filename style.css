@@ -382,15 +382,16 @@ border-radius: 15px;
 background-color: #BCEAD5;
 width: 120%;
 margin: 10px;
-padding: 10px;
+padding: auto;
 }
 
 .l{
-width: 60%;
+width: 40%;
 margin: 10px;
 }
 
 .bgf{
+width: 800 px;
 margin-right: 40px;
 margin-left: 40px;
 }
