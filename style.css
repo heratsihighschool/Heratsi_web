@@ -10,6 +10,7 @@ body{
     font-variant: normal;
     text-transform:none;
     background: url(images/background.jpg);
+    width: 100%;
 }
 /*------------------------- HEADER ----------------------*/
 
