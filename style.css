@@ -372,6 +372,7 @@ box-shadow: inset -1px 3px 8px 5px #ffc5e1a5, 2px 5px 16px 0px #ffdcedc8, 5px 5p
 display: flex;
 flex-direction: column;
 margin-bottom: 15px;
+width: 1000px;
 }
 
 .flag{
