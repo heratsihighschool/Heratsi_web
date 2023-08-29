@@ -181,6 +181,9 @@ body {
     margin-top: 150px;
     margin-bottom: 100px;
     width: 80%;
+      display: flex;
+    flex-direction: column;
+    align-items: center; 
 }
 
 .button2 {
@@ -381,189 +384,14 @@ margin-left: 40px;
 width: 1400px;
 }
 
-/*------------------------- FOOTER -----------------------*/
-
-.footer{
-    position: fixed;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: 70px;
-    background-color:  rgb(142, 195, 176);
-  }
-  
-  .designed{
-    position: fixed;
-    right: 10px;
-    bottom: 5px;
-  }
-  
-  .social{
-      margin-left: 10px;
-      margin-right: 20px;
-      margin-top: 10px;
-      height: 50px;
-      width: auto;
-  }
-  
-/*--------------------------- END  FOOTER ----------------------*/
-
-.myButton {
-	box-shadow: 3px 4px 0px 0px #3dc21b;
-	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
-	background-color:#44c767;
-	border-radius:15px;
-	border:1px solid #18ab29;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:7px 25px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;
-}
-.myButton:hover {
-	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
-	background-color:#5cbf2a;
-}
-.myButton:active {
-	position:relative;
-	top:1px;
-}
-
-.cards{
-    display:flex;
-    justify-content:space-between;
-}
-
-.book_card{
-    background-color: #BCEAD5;
-    border-radius: 15px;
-    padding:20px;
-    margin:15px;
-}
-
-.book_photo{
-    width:350px;
-    height:400px;
-}
-
-.cardr{
-    display:flex;
-    flex-direction: column;
-}
-
-.kk{
-    display: flex;
-    flex-direction: row;
-}
-
-.k{
-    background-color: #BCEAD5;
-    border-radius: 15px;
-    padding: 25px;
-    margin-bottom: 10px;
-}
-.kimg{
-    width: 200px;
-    height: auto;
-}
-
-.trq{
- display: flex;
- justify-content: space-between; 
-}
-
-.hex{
-    display:flex;
-    flex-direction: column;
-    background-color:#BCEAD5;
-    border: 2px solid;
-    border-color: #8EC3B0;
-    border-radius: 15px;
-    margin-right: 0px;
-    padding:10px;
-}
-
-.hm{
-    display: flex;
-    flex-direction: row;
-}
-
-.green{
-    color: #8EC3B0;
- }
-
-.nm{
-    display: flex;
-    flex-direction: column;
-}
-
-.nane{
-    display: flex;
-    flex-direction: row;
-}
-
-.ereq{
-    display: flex;
-    flex-direction: row;
-}
-
-.gn{
-    display: flex;
-    flex-direction: column;
-}
-
-.hs{
-    display: flex;
-    justify-content: flex-end;
-}
-
-.game{
-      display: block;
-}
-
-.flags{
-display: flex;
-flex-direction: column;
-margin-bottom: 15px;
-width: 1000px;
-}
-
-.flag{
-display: flex;
-flex-direction: row;
-align-items: center;
-justify-content: center;
-border-radius: 15px;
-/*----background-color: #BCEAD5;------*/
-width: 120%;
-margin: 10px;
-padding: auto;
-}
-
-.l{
-width: 40%;
-margin: 10px;
-}
-
-.bgf{
-width: 800 px;
-margin-right: 40px;
-margin-left: 40px;
-}
-
-.w{
-width: 1400px;
-}
 
 .film-card{
 border: 2px solid;
 border-color: #8EC3B0;
 border-radius: 15px;
 width: 60%;
+padding: 20px;
+text-align: center;
 }
 
 /*------------------------- FOOTER -----------------------*/
