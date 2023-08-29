@@ -181,7 +181,7 @@ body {
     margin-top: 150px;
     margin-bottom: 100px;
     width: 80%;
-      display: flex;
+    display: flex;
     flex-direction: column;
     align-items: center; 
 }
@@ -389,8 +389,8 @@ width: 1400px;
 border: 2px solid;
 border-color: #8EC3B0;
 border-radius: 15px;
-width: 60%;
-padding: 20px;
+width: 80%;
+padding: 50px;
 text-align: center;
 }
 
