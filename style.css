@@ -23,7 +23,7 @@ body {
     top: 0;
     left: 0;
     right: 0;
-    width: 100%;
+    width: fit-content;
     background-color: rgb(142, 195, 176);
     z-index: 1000;
 }
@@ -97,7 +97,7 @@ body {
     margin-top: 170px;
     margin-bottom: 100px;
     margin-left: 40px;
-    width: 95%;
+    width: inherit;
 }
 
 .cont {
