@@ -559,6 +559,13 @@ margin-left: 40px;
 width: 1400px;
 }
 
+.film-card{
+border: 2px solid;
+border-color: #8EC3B0;
+border-radius: 15px;
+width: 60%;
+}
+
 /*------------------------- FOOTER -----------------------*/
 
 .footer {
