@@ -403,6 +403,7 @@ text-align: center;
 .blf{
 display: flex;
 justify-content: center;
+width: 120%;
 }
 /*------------------------- FOOTER -----------------------*/
 
