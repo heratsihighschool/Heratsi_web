@@ -388,11 +388,10 @@ width: 1400px;
 
 
 .film-card{
-/*--- border ---
 border: 2px solid;
 border-color: #8EC3B0;
 border-radius: 15px;
---- end border ---*/
+margin: 100px;
 padding: 200px;
 text-align: left;
  max-width: 100%;
@@ -403,7 +402,7 @@ text-align: left;
 .blf{
 display: flex;
 justify-content: center;
-/*--- max-width: 100%; ---*/
+max-width: 100%;
 }
 /*------------------------- FOOTER -----------------------*/
 
