@@ -19,11 +19,11 @@ body {
 
 .header {
     position: fixed;
-    padding: 20px;
+    padding: 2px;
     top: 0;
     left: 0;
     right: 0;
-    width: fit-content;
+    width: 100%;
     background-color: rgb(142, 195, 176);
     z-index: 1000;
 }
